@@ -1,0 +1,13 @@
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csprojAssemblyReference.cache
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+C:\Users\Arafa\Desktop\OOP EXERCISES\Invoice\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache
