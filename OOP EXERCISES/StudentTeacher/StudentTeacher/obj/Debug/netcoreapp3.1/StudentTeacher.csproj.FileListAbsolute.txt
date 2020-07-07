@@ -1,0 +1,13 @@
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.csprojAssemblyReference.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.AssemblyInfoInputs.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.AssemblyInfo.cs
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\bin\Debug\netcoreapp3.1\StudentTeacher.exe
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\bin\Debug\netcoreapp3.1\StudentTeacher.deps.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\bin\Debug\netcoreapp3.1\StudentTeacher.runtimeconfig.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\bin\Debug\netcoreapp3.1\StudentTeacher.runtimeconfig.dev.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\bin\Debug\netcoreapp3.1\StudentTeacher.dll
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\bin\Debug\netcoreapp3.1\StudentTeacher.pdb
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.dll
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.pdb
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\StudentTeacher\StudentTeacher\obj\Debug\netcoreapp3.1\StudentTeacher.genruntimeconfig.cache

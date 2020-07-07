@@ -1,0 +1,13 @@
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\bin\Debug\netcoreapp3.1\Mileage.exe
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\bin\Debug\netcoreapp3.1\Mileage.deps.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\bin\Debug\netcoreapp3.1\Mileage.runtimeconfig.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\bin\Debug\netcoreapp3.1\Mileage.runtimeconfig.dev.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\bin\Debug\netcoreapp3.1\Mileage.dll
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\bin\Debug\netcoreapp3.1\Mileage.pdb
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.csprojAssemblyReference.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.AssemblyInfoInputs.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.AssemblyInfo.cs
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.dll
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.pdb
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\Mileage\Mileage\obj\Debug\netcoreapp3.1\Mileage.genruntimeconfig.cache
