@@ -1,0 +1,13 @@
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.exe
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.deps.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.runtimeconfig.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.runtimeconfig.dev.json
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.dll
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\bin\Debug\netcoreapp3.1\PhotoAlbum.pdb
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.AssemblyInfoInputs.cache
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.AssemblyInfo.cs
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.dll
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.pdb
+C:\Users\Arafa\Documents\GitHub\OOP-Exercises\OOP EXERCISES\PhotoAlbum\PhotoAlbum\obj\Debug\netcoreapp3.1\PhotoAlbum.genruntimeconfig.cache
